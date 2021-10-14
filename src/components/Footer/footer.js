@@ -13,11 +13,11 @@ class Footer extends Component {
         links : [
             { id : 1, title : "Services",
               child : [
-                  { title : "Digital Marketing", link : "https://macksproductions.in/services/" },
-                  { title : "Business Analysis", link : "https://macksproductions.in/services/" },
-                  { title : "How It Work", link : "https://macksproductions.in/services/" },
-                  { title : "Fix & Flip", link : "https://macksproductions.in/services/" },
-                  { title : "Social Activation", link : "https://macksproductions.in/services/" },
+                  { title : "Digital Marketing", link : "/https://macksproductions.in/services/" },
+                  { title : "Business Analysis", link : "/https://macksproductions.in/services/" },
+                  { title : "How It Work", link : "/https://macksproductions.in/services/" },
+                  { title : "Fix & Flip", link : "/https://macksproductions.in/services/" },
+                  { title : "Social Activation", link : "/https://macksproductions.in/services/" },
               ]
             },
             { id : 2, title : "About Us",
